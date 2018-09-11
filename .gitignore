@@ -12,3 +12,4 @@ package-lock.json
 .sass-cache
 css/reveal.min.css
 js/reveal.min.js
+dependencies/phantomjs-2.1.1-windows/
