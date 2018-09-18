@@ -46,6 +46,20 @@ We need a new UI framework for the work the HM ART will be doing.
 
 ---
 
+## Proposal
+#### What do we care about?
+<ul>
+<li class="fragment">How nice is it to use for Engineers?</li>
+<li class="fragment">How nice is it to use for non-Engineers?</li>
+<li class="fragment">How easy is it to theme?</li>
+<li class="fragment">What is React support like?</li>
+<li class="fragment">What is support for other front end frameworks like?</li>
+<li class="fragment">What else do we care about?</li>
+</ul>
+
+---
+
+
 ## (Some) Options
 
 Bootstrap 4  
@@ -55,12 +69,11 @@ Bootstrap 4
 <Button color="success">success</Button>{' '}
 <Button color="info">info</Button>{' '}
 <Button color="warning">warning</Button>{' '}
-<Button color="danger">danger</Button>{' '}
-<Button color="link">link</Button>
 ```
 ![A set of buttons](./slides/images/bootstrap_buttons.png)  
 * Familiar(-ish)
 * [Reactstrap](https://reactstrap.github.io/) for react integration.
+* Dom has done some work.
 
 ---
 
