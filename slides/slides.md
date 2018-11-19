@@ -94,3 +94,4 @@ Zoom: <code style="background-color: white; color: black; border-radius: 50px;">
 * Know where things are.
 * Close stuff you don't need.
 * Be explicit.
+* Do the boring stuff beforehand.
