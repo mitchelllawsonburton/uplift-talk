@@ -82,8 +82,8 @@ Pick a good colour scheme (default probably).
 <span style="font-size: .5em">Overview | Presentation tools | Showing code  | <span style="color: yellow">**Demo Tips**</span></span>
 
 #### Keyboard shortcuts
-Zoom: <code style="background-color: white; color: black; border-radius: 50px;">Ctrl + -</code> and <code style="background-color: white; color: black; border-radius: 50px;">Ctrl + =</code>
-
+* Zoom: <code style="background-color: white; color: black; border-radius: 50px;">Ctrl + -</code> and <code style="background-color: white; color: black; border-radius: 50px;">Ctrl + =</code>  
+* Toggle sidebar: <code style="background-color: white; color: black; border-radius: 50px;">Ctrl + b</code>
 
 ---
 
