@@ -39,6 +39,7 @@ Make sure you have one.
 * Windows Focus Assist.
 * Close chat and email (maybe).
 * Test the equipment.
+<li class="fragment"><span class="fragment highlight-blue">People are self-centered.</span></li>
 
 ---
 
