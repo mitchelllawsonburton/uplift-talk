@@ -6,20 +6,21 @@
 
 * Overview
 * Presentation tools
+* Presentation tips
 * Showing code
-* How to demo
+* Demo tips
 
 ---
 
 ## Overview
-<span style="font-size: .5em"><span style="color: yellow">**Overview**</span> | Presentation tools | Showing code  | Demo Tips</span>
+<span style="font-size: .5em"><span style="color: yellow">**Overview**</span> | Presentation tools | Presentation tips | Showing code  | Demo tips</span>
 
 Make sure you have one.
 
 ---
 
 ## Presentation tools
-<span style="font-size: .5em">Overview | <span style="color: yellow">**Presentation tools**</span> | Showing code  | Demo Tips</span>
+<span style="font-size: .5em">Overview | <span style="color: yellow">**Presentation tools**</span> | Presentation tips | Showing code  | Demo tips</span>
 
 #### Not just Powerpoint
 
@@ -32,8 +33,17 @@ Make sure you have one.
 
 ---
 
+## Presentation tips
+<span style="font-size: .5em">Overview | Presentation tools | <span style="color: yellow">**Presentation tips**</span> | Showing code  | Demo tips</span>
+
+* Windows Focus Assist.
+* Close chat and email (maybe).
+* Test the equipment.
+
+---
+
 ## Showing code
-<span style="font-size: .5em">Overview | Presentation tools | <span style="color: yellow">**Showing code**</span>  | Demo Tips</span>
+<span style="font-size: .5em">Overview | Presentation tools | Presentation tips | <span style="color: yellow">**Showing code**</span>  | Demo tips</span>
 
 Don't show text, show code.
 
@@ -44,7 +54,7 @@ thingy = callFunction(thingy);
 ---
 
 ## Showing code
-<span style="font-size: .5em">Overview | Presentation tools | <span style="color: yellow">**Showing code**</span>  | Demo Tips</span>
+<span style="font-size: .5em">Overview | Presentation tools | Presentation tips | <span style="color: yellow">**Showing code**</span>  | Demo tips</span>
 
 Showing text:
 
@@ -55,7 +65,7 @@ thingy = callFunction(thingy);
 ---
 
 ## Showing code
-<span style="font-size: .5em">Overview | Presentation tools | <span style="color: yellow">**Showing code**</span>  | Demo Tips</span>
+<span style="font-size: .5em">Overview | Presentation tools | Presentation tips | <span style="color: yellow">**Showing code**</span>  | Demo tips</span>
 
     ```js
     let thingy = 7;
@@ -65,21 +75,21 @@ thingy = callFunction(thingy);
 ---
 
 ## Showing code
-<span style="font-size: .5em">Overview | Presentation tools | <span style="color: yellow">**Showing code**</span>  | Demo Tips</span>
+<span style="font-size: .5em">Overview | Presentation tools | Presentation tips | <span style="color: yellow">**Showing code**</span>  | Demo tips</span>
 
 ![A picture of some code](./slides/images/showing_code.png "A picture of some code")
 
 ---
 
 ## Showing code
-<span style="font-size: .5em">Overview | Presentation tools | <span style="color: yellow">**Showing code**</span>  | Demo Tips</span>
+<span style="font-size: .5em">Overview | Presentation tools | Presentation tips | <span style="color: yellow">**Showing code**</span>  | Demo tips</span>
 
 Pick a good colour scheme (default probably).
 
 ---
 
 ## Demo Tips
-<span style="font-size: .5em">Overview | Presentation tools | Showing code  | <span style="color: yellow">**Demo Tips**</span></span>
+<span style="font-size: .5em">Overview | Presentation tools | Presentation tips | Showing code  | <span style="color: yellow">**Demo tips**</span></span>
 
 #### Keyboard shortcuts
 * Zoom: <code style="background-color: white; color: black; border-radius: 50px;">Ctrl + -</code> and <code style="background-color: white; color: black; border-radius: 50px;">Ctrl + =</code>  
@@ -88,7 +98,7 @@ Pick a good colour scheme (default probably).
 ---
 
 ## Demo Tips
-<span style="font-size: .5em">Overview | Presentation tools | Showing code  | <span style="color: yellow">**Demo Tips**</span></span>
+<span style="font-size: .5em">Overview | Presentation tools | Presentation tips | Showing code  | <span style="color: yellow">**Demo tips**</span></span>
 
 * Have a back up.
 * Know where things are.
