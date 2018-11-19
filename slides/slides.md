@@ -90,6 +90,6 @@ Zoom: <code style="background-color: white; color: black; border-radius: 50px;">
 ## Demo Tips
 <span style="font-size: .5em">Overview | Presentation tools | Showing code  | <span style="color: yellow">**Demo Tips**</span></span>
 
-* Know where things are
-* 
-  
+* Have a back up.
+* Know where things are.
+* Be explicit.  
