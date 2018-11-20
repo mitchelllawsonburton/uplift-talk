@@ -113,5 +113,5 @@ Pick a good colour scheme (default probably).
 
 * [The live site](https://mitchellshouse.netlify.com/)
 * [The code](https://github.com/mitchelllawsonburton/mitchellshouse)
-* [This presentation](mitchells-uplift-talk.netlify.com)
+* [This presentation](https://mitchells-uplift-talk.netlify.com)
 * [Presentation code](https://github.com/lic-nz/reveal.js/tree/mitchell/uplift) (Must be logged in to LIC's github.)
