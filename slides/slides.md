@@ -106,3 +106,11 @@ Pick a good colour scheme (default probably).
 * Close stuff you don't need.
 * Be explicit.
 * Do the boring stuff beforehand.
+
+---
+
+## Demo
+
+* [The live site](https://mitchellshouse.netlify.com/)
+* [The code](https://github.com/mitchelllawsonburton/mitchellshouse)
+* 
